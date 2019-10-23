@@ -24,4 +24,8 @@ export class RecipeListComponent implements OnInit {
   ngOnInit() {
   }
 
+  onClick() {
+    console.log('jbg');
+  }
+
 }
